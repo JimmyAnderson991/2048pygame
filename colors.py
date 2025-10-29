@@ -1,7 +1,3 @@
-# Courtesy of : https://www.youtube.com/@KiteHQ
-# Video link : https://youtu.be/b4XP2IcI-Bg
-# The document has been modified as per the purpose of video.
-
 GRID_COLOR = "#a39489"
 EMPTY_CELL_COLOR = "#c2b3a9"
 SCORE_LABEL_FONT = "Verdana"
@@ -33,3 +29,4 @@ CELL_NUMBER_COLORS = {
     1024: "#ffffff",
     2048: "#ffffff"
 }
+
