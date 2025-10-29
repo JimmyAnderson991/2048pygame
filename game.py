@@ -1,8 +1,3 @@
-# Code by @codePerfect7
-# Youtube : https://youtube.com/@codeperfect
-# Twitter : https://twitter.com/codePerfect7
-# Github : https://github.com/codePerfect7
-
 import pygame
 from random import randint, choice
 import colors as c
@@ -266,3 +261,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
